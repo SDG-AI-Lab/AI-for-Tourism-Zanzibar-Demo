@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AI-for-Tourism-Zanzibar-Demo/static/css/main.96009dda.css",
-    "main.js": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.a25d19d7.js",
+    "main.js": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.d952262d.js",
     "static/js/453.a35bcddd.chunk.js": "/AI-for-Tourism-Zanzibar-Demo/static/js/453.a35bcddd.chunk.js",
     "static/media/bg.jpg": "/AI-for-Tourism-Zanzibar-Demo/static/media/bg.0a1160c427124b27a826.jpg",
     "static/media/sponsor1.png": "/AI-for-Tourism-Zanzibar-Demo/static/media/sponsor1.24df05d7e1cb74d5bccb.png",
@@ -23,11 +23,11 @@
     "static/media/categories.svg": "/AI-for-Tourism-Zanzibar-Demo/static/media/categories.8e130b208b83c566a354.svg",
     "static/media/timeline.svg": "/AI-for-Tourism-Zanzibar-Demo/static/media/timeline.4aec54f8ba80f4c722d8.svg",
     "main.96009dda.css.map": "/AI-for-Tourism-Zanzibar-Demo/static/css/main.96009dda.css.map",
-    "main.a25d19d7.js.map": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.a25d19d7.js.map",
+    "main.d952262d.js.map": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.d952262d.js.map",
     "453.a35bcddd.chunk.js.map": "/AI-for-Tourism-Zanzibar-Demo/static/js/453.a35bcddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96009dda.css",
-    "static/js/main.a25d19d7.js"
+    "static/js/main.d952262d.js"
   ]
 }
