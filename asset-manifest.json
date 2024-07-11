@@ -1,38 +1,7 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/AI-fot-tourism-demo/static/css/main.04fd5315.css",
-    "main.js": "/AI-fot-tourism-demo/static/js/main.b096845e.js",
-    "static/js/453.a35bcddd.chunk.js": "/AI-fot-tourism-demo/static/js/453.a35bcddd.chunk.js",
-    "static/media/bg.jpg": "/AI-fot-tourism-demo/static/media/bg.0a1160c427124b27a826.jpg",
-    "static/media/sponsor1.png": "/AI-fot-tourism-demo/static/media/sponsor1.24df05d7e1cb74d5bccb.png",
-    "static/media/sponsor2.png": "/AI-fot-tourism-demo/static/media/sponsor2.06f360731f9b905b60ec.png",
-    "static/media/agoda.svg": "/AI-fot-tourism-demo/static/media/agoda.8b5b3d7b418feb907aa0.svg",
-    "static/media/airbnb.svg": "/AI-fot-tourism-demo/static/media/airbnb.aabeefedaf30b8c7011a.svg",
-    "static/media/tripadvisor.svg": "/AI-fot-tourism-demo/static/media/tripadvisor.cec01b6009269f30859c.svg",
-    "static/media/booking.svg": "/AI-fot-tourism-demo/static/media/booking.638545d2181436f24661.svg",
-    "static/media/filters.svg": "/AI-fot-tourism-demo/static/media/filters.d375cc2fe01a20372cf3afbda2369ef9.svg",
-    "index.html": "/AI-fot-tourism-demo/index.html",
-    "static/media/open-reviews.svg": "/AI-fot-tourism-demo/static/media/open-reviews.497c9e6072ec65b1889e.svg",
-    "static/media/bad-reviews.svg": "/AI-fot-tourism-demo/static/media/bad-reviews.71b7f3dbc9c1894cdb9f.svg",
-    "static/media/new-reviews.svg": "/AI-fot-tourism-demo/static/media/new-reviews.47a2b94d174af4286618.svg",
-    "static/media/locations.svg": "/AI-fot-tourism-demo/static/media/locations.24f2c98c112e86005e2f.svg",
-    "static/media/positive-reviews.svg": "/AI-fot-tourism-demo/static/media/positive-reviews.71e5b1d0aa39279304d0.svg",
-    "static/media/aspects.svg": "/AI-fot-tourism-demo/static/media/aspects.64ee19e8c5b800a397a0.svg",
-    "static/media/intro.svg": "/AI-fot-tourism-demo/static/media/intro.069430ace2fef417d412.svg",
-    "static/media/regions.svg": "/AI-fot-tourism-demo/static/media/regions.ccb91f352474c0b7eb74.svg",
-    "static/media/categories.svg": "/AI-fot-tourism-demo/static/media/categories.8e130b208b83c566a354.svg",
-    "static/media/timeline.svg": "/AI-fot-tourism-demo/static/media/timeline.4aec54f8ba80f4c722d8.svg",
-    "main.04fd5315.css.map": "/AI-fot-tourism-demo/static/css/main.04fd5315.css.map",
-    "main.b096845e.js.map": "/AI-fot-tourism-demo/static/js/main.b096845e.js.map",
-    "453.a35bcddd.chunk.js.map": "/AI-fot-tourism-demo/static/js/453.a35bcddd.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.04fd5315.css",
-    "static/js/main.b096845e.js"
-=======
     "main.css": "/AI-for-Tourism-Zanzibar-Demo/static/css/main.96009dda.css",
-    "main.js": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.c2d6e566.js",
+    "main.js": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.d1ecc106.js",
     "static/js/453.a35bcddd.chunk.js": "/AI-for-Tourism-Zanzibar-Demo/static/js/453.a35bcddd.chunk.js",
     "static/media/bg.jpg": "/AI-for-Tourism-Zanzibar-Demo/static/media/bg.0a1160c427124b27a826.jpg",
     "static/media/sponsor1.png": "/AI-for-Tourism-Zanzibar-Demo/static/media/sponsor1.24df05d7e1cb74d5bccb.png",
@@ -54,12 +23,11 @@
     "static/media/categories.svg": "/AI-for-Tourism-Zanzibar-Demo/static/media/categories.8e130b208b83c566a354.svg",
     "static/media/timeline.svg": "/AI-for-Tourism-Zanzibar-Demo/static/media/timeline.4aec54f8ba80f4c722d8.svg",
     "main.96009dda.css.map": "/AI-for-Tourism-Zanzibar-Demo/static/css/main.96009dda.css.map",
-    "main.c2d6e566.js.map": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.c2d6e566.js.map",
+    "main.d1ecc106.js.map": "/AI-for-Tourism-Zanzibar-Demo/static/js/main.d1ecc106.js.map",
     "453.a35bcddd.chunk.js.map": "/AI-for-Tourism-Zanzibar-Demo/static/js/453.a35bcddd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96009dda.css",
-    "static/js/main.c2d6e566.js"
->>>>>>> db7f15d3c2ce9886c34175fb0fd9615e4c368839
+    "static/js/main.d1ecc106.js"
   ]
 }
